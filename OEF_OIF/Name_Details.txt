@@ -1,0 +1,3 @@
+OEF = Operation Enduring Freedom
+
+OIF = Operation Iraqi Freedom
