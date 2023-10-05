@@ -5,5 +5,3 @@
 (Robert Reed)    https://digital.lib.ku.edu/islandora/object/ku-wwii%3A16/datastream/OBJ/download
 
 (William Tarlton)    https://digital.lib.ku.edu/islandora/object/ku-wwii%3A25/datastream/OBJ/download
-
-()
