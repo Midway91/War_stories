@@ -7,3 +7,7 @@
 (William Tarlton)    https://digital.lib.ku.edu/islandora/object/ku-wwii%3A25/datastream/OBJ/download
 
 (A J Durham)    https://digitalarchive.pacificwarmuseum.org/digital/api/collection/p16769coll1/id/11776/download
+
+(Robert J. Baker)    https://tile.loc.gov/storage-services/service/vhp/0629/062994/afc2001001_062994_mv0001001_640x480_800.mp4
+
+(Charles Vernon Ball)    https://tile.loc.gov/storage-services/service/vhp/0629/062995/afc2001001_062995_mv0001001_640x480_800.mp4
