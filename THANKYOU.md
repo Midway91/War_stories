@@ -4,3 +4,4 @@
 - https://digitalarchive.pacificwarmuseum.org/
 - https://qcpages.qc.cuny.edu/
 - https://www.usmcu.edu/
+- https://digitalcollections.vmi.edu/
